@@ -14,7 +14,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -35,6 +37,8 @@
           "enableGooglePay": true
         }
       ]
-    ]
+    ],
+    "description": "A restaurant app built with React Native (for demo only)",
+    "githubUrl": "https://github.com/khaledapps/restaurant-app"
   }
 }
