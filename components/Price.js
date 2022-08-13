@@ -23,7 +23,7 @@ export default function Price({ price, size = 1, isNote = false }) {
           opacity: isNote ? 0.8 : 1,
         }}
       >
-        AED
+        SAR
       </Text>
     </View>
   );
